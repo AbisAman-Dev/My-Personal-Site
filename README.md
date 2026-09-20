@@ -20,4 +20,4 @@ thoght of adding a scyth animation but eventually gave up due to insuficient tim
 ## Main issues faced
 
 I have known the html and css greatly upto the level btw biggener and intermidiate
-So i hadn't faced much problems exept some liitle fixed and with some help from my senior who has tought me this i had a smooth run for this
+So i hadn't faced much problems exept some liitle fixed like the nav bar style not connecting the thing is that my files where not in same file as it had to be. and the otjer thing was i was thinking of makimg a part for feedback but after many yries and video tutorials it failed so i dopped it the main problem was that the email send was not comming to my email.
